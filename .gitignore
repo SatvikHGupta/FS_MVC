@@ -3,6 +3,9 @@ node_modules/
 .pnp
 .pnp.js
 
+#extras
+.zip
+
 # Build outputs
 dist/
 dist-ssr/
